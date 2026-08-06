@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nordicos Choperia | Cardápio Digital</title>
+
+    <meta name="description" content="Cardápio Digital da Nordicos Choperia">
+
+
+    <!-- Google Fonts -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+
+</head>
+
+
+<body>
+
+
+<!-- ================= HERO ================= -->
+
+
+<header class="hero">
+
+    <div class="overlay"></div>
+
+
+    <div class="hero-content">
+
+
+        <img 
+        src="assets/logo.png" 
+        class="logo" 
+        alt="Nordicos Choperia">
+
+
+        <h1>NORDICOS CHOPERIA</h1>
+
+
+        <p>Cardápio Digital</p>
+
+
+    </div>
+
+
+</header>
+
+
+
+
+<!-- ================= PESQUISA ================= -->
+
+
+<section class="search-area">
+
+
+    <input 
+    type="text" 
+    id="search"
+    placeholder="Pesquisar produto...">
+
+
+</section>
+
+
+
+
+
+<!-- ================= CATEGORIAS ================= -->
+
+
+<nav class="menu-categorias">
+
+<button class="categoria active" data-categoria="Todos">
+🍽 Todos
+</button>
+
+<button class="categoria" data-categoria="Petiscos">
+🔥 Petiscos
+</button>
+
+<button class="categoria" data-categoria="Espetinhos">
+🍢 Espetinhos
+</button>
+
+<button class="categoria" data-categoria="Drinks">
+🍹 Drinks
+</button>
+
+<button class="categoria" data-categoria="Drinks Sem Álcool">
+🥤 Sem Álcool
+</button>
+
+<button class="categoria" data-categoria="Chopps">
+🍺 Chopps
+</button>
+
+<button class="categoria" data-categoria="Baldes">
+🍻 Baldes
+</button>
+
+<button class="categoria" data-categoria="Cervejas 600ml">
+🍻 Cervejas
+</button>
+
+<button class="categoria" data-categoria="Bebidas">
+🥤 Bebidas
+</button>
+
+<button class="categoria" data-categoria="Promoção">
+⭐ Promoções
+</button>
+
+</nav>
+
+
+
+
+
+<!-- ================= PRODUTOS ================= -->
+
+
+<main>
+
+<div id="titulo-categoria">
+
+</div>
+
+
+<section class="produtos-grid" id="produtos">
+
+
+</section>
+
+
+</main>
+
+<!-- 
+Os produtos são carregados automaticamente
+pelo arquivo app.js através do produtos.json
+-->
+
+
+</section>
+
+
+</main>
+
+
+
+
+
+<!-- ================= RODAPÉ ================= -->
+
+
+<footer>
+
+
+<p>
+© 2026 Nordicos Choperia • Todos os direitos reservados.
+</p>
+
+
+</footer>
+
+
+
+
+
+<!-- BOTÃO TOPO -->
+
+
+<button id="topo">
+
+↑
+
+</button>
+
+
+
+
+
+<!-- ================= JAVASCRIPT ================= -->
+
+
+<script src="js/ui.js"></script>
+<script src="js/app.js"></script>
+</body>
+
+
+</html>

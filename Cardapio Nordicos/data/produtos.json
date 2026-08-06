@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "categoria": "Petiscos",
+    "nome": "Combinado de 3 Espetos",
+    "descricao": "1 espeto de carne, 1 de frango e 1 de linguiça toscana.",
+    "preco": 34.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 2,
+    "categoria": "Petiscos",
+    "nome": "Batata Frita de Odin",
+    "descricao": "Porção de batata frita crocante.",
+    "preco": 29.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 3,
+    "categoria": "Petiscos",
+    "nome": "Pastel Loki",
+    "descricao": "Massa artesanal. Escolha entre queijo ou carne.",
+    "preco": 37.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "categoria": "Petiscos",
+    "nome": "Gurjão de Peixe do Floki",
+    "descricao": "400g de tiras de filé de peixe crocantes. Acompanha 200g de fritas.",
+    "preco": 59.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "categoria": "Petiscos",
+    "nome": "Sem Parar de Frango",
+    "descricao": "400g de tiras de filé de peito de frango crocantes. Acompanha 200g de fritas.",
+    "preco": 54.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "categoria": "Petiscos",
+    "nome": "Sem Parar de Carne",
+    "descricao": "400g de tiras de contrafilé temperadas e crocantes. Acompanha 200g de fritas.",
+    "preco": 69.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "categoria": "Petiscos",
+    "nome": "Tábua de Frios",
+    "descricao": "Salame, queijo, azeitona, ovo de codorna e molho.",
+    "preco": 64.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "categoria": "Petiscos",
+    "nome": "Batata Bjorn",
+    "descricao": "400g de fritas com uma generosa camada de carne seca desfiada e coberta com molho de queijo.",
+    "preco": 54.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "categoria": "Petiscos",
+    "nome": "Bolinho de Bacalhau",
+    "descricao": "12 unidades de bolinho de bacalhau artesanal.",
+    "preco": 49.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "categoria": "Petiscos",
+    "nome": "Carne de Sol à Moda",
+    "descricao": "Servida na chama acompanhada de aipim frito, queijo coalho e manteiga de garrafa.",
+    "preco": 99.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 11,
+    "categoria": "Petiscos",
+    "nome": "Torresmos do Thor",
+    "descricao": "Porção caprichada, crocante e saborosa, feita com panceta acompanhada de molho.",
+    "preco": 46.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "categoria": "Petiscos",
+    "nome": "Camarão Aegir",
+    "descricao": "400g de tenros camarões ao alho e óleo. Acompanha molho.",
+    "preco": 59.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 13,
+    "categoria": "Petiscos",
+    "nome": "Batata Frita dos Deuses",
+    "descricao": "400g de fritas coberta com creme de cheddar e bacon.",
+    "preco": 59.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 14,
+    "categoria": "Petiscos",
+    "nome": "Frango a Passarinho",
+    "descricao": "800g de suculentos cortes de frango com tempero especial do chefe. Acompanha 200g de fritas.",
+    "preco": 49.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 15,
+    "categoria": "Petiscos",
+    "nome": "Filé do Tyr",
+    "descricao": "400g de cortes selecionados de contrafilé cobertos por molho de queijo gorgonzola, servido na chama. Acompanha 200g de fritas.",
+    "preco": 79.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": false
+  },
+  {
+    "id": 16,
+    "categoria": "Espetinhos",
+    "nome": "Combinado de 6 Espetos",
+    "descricao": "Espeto de carne, coração, queijo coalho, kafta, frango e linguiça toscana. Acompanha fritas.",
+    "preco": 59.90,
+    "imagem": "sem-imagem.jpg",
+    "destaque": true
+  },
+{
+  "id": 17,
+  "categoria": "Espetinhos",
+  "nome": "Espetinho de Kafta",
+  "descricao": "Espetinho artesanal de kafta.",
+  "preco": 9.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 18,
+  "categoria": "Espetinhos",
+  "nome": "Espetinho de Coração",
+  "descricao": "Espetinho de coração temperado.",
+  "preco": 12.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 19,
+  "categoria": "Espetinhos",
+  "nome": "Espetinho de Queijo Coalho",
+  "descricao": "Queijo coalho grelhado no espeto.",
+  "preco": 12.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 20,
+  "categoria": "Espetinhos",
+  "nome": "Espetinho de Frango",
+  "descricao": "Espetinho de frango temperado.",
+  "preco": 9.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 21,
+  "categoria": "Espetinhos",
+  "nome": "Espetinho de Carne",
+  "descricao": "Espetinho de carne selecionada.",
+  "preco": 12.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 22,
+  "categoria": "Drinks",
+  "nome": "Taça Nórdica",
+  "descricao": "Vodka, morango, leite condensado, creme de leite e finalizado com espuma.",
+  "preco": 34.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 23,
+  "categoria": "Drinks",
+  "nome": "Aperol Spritz",
+  "descricao": "Aperol, prosecco, água com gás e laranjas laminadas.",
+  "preco": 39.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 24,
+  "categoria": "Drinks",
+  "nome": "Gin Rose",
+  "descricao": "Gin, frutas vermelhas, suco de limão e Red Bull de melancia.",
+  "preco": 39.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 25,
+  "categoria": "Drinks",
+  "nome": "Gin Tropical",
+  "descricao": "Gin, frutas tropicais, suco de laranja e Red Bull tropical.",
+  "preco": 39.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 26,
+  "categoria": "Drinks",
+  "nome": "Valhalla",
+  "descricao": "Vodka, licor de pêssego, grenadine e suco de laranja.",
+  "preco": 29.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 27,
+  "categoria": "Drinks",
+  "nome": "Bjorn Ironside",
+  "descricao": "Licor de cacau, leite condensado, ovomaltine e chantilly.",
+  "preco": 34.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 28,
+  "categoria": "Drinks",
+  "nome": "Caipirinha",
+  "descricao": "Cachaça, frutas da época e gelo.",
+  "preco": 21.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 29,
+  "categoria": "Drinks",
+  "nome": "Caipvodka",
+  "descricao": "Vodka, frutas da época e gelo.",
+  "preco": 22.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 30,
+  "categoria": "Drinks",
+  "nome": "Dos Deuses",
+  "descricao": "Rum, leite condensado, abacaxi e leite de coco.",
+  "preco": 29.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 31,
+  "categoria": "Drinks",
+  "nome": "Ragnarok",
+  "descricao": "4 shots alcoólicos: menta, curaçau blue, frutas vermelhas e frutas cítricas.",
+  "preco": 29.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 32,
+  "categoria": "Drinks",
+  "nome": "Velho Viking",
+  "descricao": "Vodka, curaçau blue e soda limonada.",
+  "preco": 27.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 33,
+  "categoria": "Drinks Sem Álcool",
+  "nome": "Caipifruta Sem Álcool",
+  "descricao": "Frutas da época batidas com leite condensado e creme de leite.",
+  "preco": 22.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 34,
+  "categoria": "Drinks Sem Álcool",
+  "nome": "Danoninho",
+  "descricao": "Morango, leite condensado, chantilly e finalizado com granulado.",
+  "preco": 22.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 35,
+  "categoria": "Chopps",
+  "nome": "Chopp da Casa",
+  "descricao": "Chopp Colina na caneca 0°.",
+  "preco": 9.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 36,
+  "categoria": "Chopps",
+  "nome": "Chopp Amstel",
+  "descricao": "Chopp Amstel na caneca 0°.",
+  "preco": 11.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 37,
+  "categoria": "Chopps",
+  "nome": "Chopp de Vinho",
+  "descricao": "Chopp de vinho na caneca 0°.",
+  "preco": 10.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 38,
+  "categoria": "Baldes",
+  "nome": "Balde Brahma",
+  "descricao": "5 unidades de Brahma 473ml.",
+  "preco": 49.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 39,
+  "categoria": "Baldes",
+  "nome": "Balde Antarctica",
+  "descricao": "5 unidades de Antarctica 473ml.",
+  "preco": 51.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 40,
+  "categoria": "Baldes",
+  "nome": "Balde Heineken Long Neck",
+  "descricao": "5 unidades de Heineken Long Neck 330ml.",
+  "preco": 67.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 41,
+  "categoria": "Baldes",
+  "nome": "Balde Heineken 600ml",
+  "descricao": "3 unidades de Heineken 600ml.",
+  "preco": 57.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 42,
+  "categoria": "Baldes",
+  "nome": "Balde Amstel 600ml",
+  "descricao": "3 unidades de Amstel 600ml.",
+  "preco": 49.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 43,
+  "categoria": "Baldes",
+  "nome": "Balde Imperio Gold",
+  "descricao": "5 unidades de Imperio Gold Long Neck 210ml.",
+  "preco": 47.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 44,
+  "categoria": "Baldes",
+  "nome": "Balde Amstel Ultra",
+  "descricao": "5 unidades de Amstel Ultra Long Neck 330ml.",
+  "preco": 44.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 45,
+  "categoria": "Baldes",
+  "nome": "Balde Corona",
+  "descricao": "5 unidades de Corona Long Neck 330ml.",
+  "preco": 69.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 46,
+  "categoria": "Baldes",
+  "nome": "Balde Estrella Galicia",
+  "descricao": "3 unidades de Estrella Galicia 600ml.",
+  "preco": 44.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 47,
+  "categoria": "Baldes",
+  "nome": "Balde Therezopolis",
+  "descricao": "3 unidades de cerveja Therezopolis 600ml.",
+  "preco": 43.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 48,
+  "categoria": "Baldes",
+  "nome": "Balde Stella Pure Gold",
+  "descricao": "5 unidades de Stella Pure Gold Long Neck 330ml.",
+  "preco": 63.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 49,
+  "categoria": "Cervejas 600ml",
+  "nome": "Amstel",
+  "descricao": "Amstel 600ml.",
+  "preco": 13.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 50,
+  "categoria": "Cervejas 600ml",
+  "nome": "Heineken",
+  "descricao": "Heineken 600ml.",
+  "preco": 19.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 51,
+  "categoria": "Cervejas 600ml",
+  "nome": "Therezopolis",
+  "descricao": "Therezopolis 600ml.",
+  "preco": 14.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 52,
+  "categoria": "Cervejas 600ml",
+  "nome": "Estrella Galicia",
+  "descricao": "Estrella Galicia 600ml.",
+  "preco": 15.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 53,
+  "categoria": "Bebidas",
+  "nome": "Água",
+  "descricao": "Com ou sem gás.",
+  "preco": 4.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 54,
+  "categoria": "Bebidas",
+  "nome": "Guaravita",
+  "descricao": "Guaravita.",
+  "preco": 4.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 55,
+  "categoria": "Bebidas",
+  "nome": "Refrigerantes",
+  "descricao": "Consulte os sabores disponíveis.",
+  "preco": 7.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 56,
+  "categoria": "Bebidas",
+  "nome": "Suco Del Valle",
+  "descricao": "Consulte os sabores.",
+  "preco": 9.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 57,
+  "categoria": "Bebidas",
+  "nome": "H2O",
+  "descricao": "Limão ou Limoneto.",
+  "preco": 9.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 58,
+  "categoria": "Bebidas",
+  "nome": "Suco da Fruta",
+  "descricao": "Feito com frutas da época.",
+  "preco": 14.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 59,
+  "categoria": "Bebidas",
+  "nome": "RedBull",
+  "descricao": "Tradicional, Tropical, Zero e Melancia.",
+  "preco": 17.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 60,
+  "categoria": "Bebidas",
+  "nome": "Monster",
+  "descricao": "Tradicional e Mango Loco.",
+  "preco": 17.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": false
+},
+{
+  "id": 61,
+  "categoria": "Promoção",
+  "nome": "Promoção Espetinhos",
+  "descricao": "De segunda a quinta. Na compra de um combinado de 6 espetos, ganhe duas Coca-Colas ou dois Chopps da Casa.",
+  "preco": 59.90,
+  "imagem": "sem-imagem.jpg",
+  "destaque": true
+},
+{
+  "id": 62,
+  "categoria": "Promoção",
+  "nome": "Mytapp",
+  "descricao": "Use seu cartão Mytapp para autoatendimento e aproveite o Chopp Colina no Happy Hour das 16:00 às 20:00.",
+  "preco": null,
+  "imagem": "sem-imagem.jpg",
+  "destaque": true
+}
+]
